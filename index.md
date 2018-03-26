@@ -13,7 +13,7 @@ I'm expert in web technologies. I've been doing programming professionally for a
 
 ## Work experience
 
-*Apr 2014 - ongoing*
+*Apr 2014 ->*
 
 __CTO & Co-Founder__, Reindex Software
 
