@@ -19,7 +19,7 @@ __CTO & Co-Founder__, Reindex Software
 
 - Co-founded a consulting company, that pivoted into product company and then back to consulting company
 - Held multiple GraphQL trainings and workshops `GraphQL` `training`
-- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `nodejs`
+- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `Node.js`
 - Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. `GraphQL` `JavaScript` `open-source` `React`
 - Led the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
 - Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform `nodejs` `GraphQL`
@@ -41,10 +41,10 @@ __Developer__, Zenrobotics Ltd
 
 __Web Development Consultant__, Freiksenet Advanced Technologies
 
-`Python`, `Django`, `JavaScript`, `node.js`, `web`
+`Python`, `Django`, `JavaScript`, `Node.js`, `web`
 
 - Consulted several companies, mostly in Web Development
-- As a consultant to a startup, I helped them to develop their product based on node.js, coffeescript and Python. I was involved both in frontend and backend.
+- As a consultant to a startup, I helped them to develop their product based on Node.js, coffeescript and Python. I was involved both in frontend and backend.
 - As a consultant to a company that specializes on tourism, I was involved in all range of duties - from backend and database design to markup and deployment. I developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
 
 
