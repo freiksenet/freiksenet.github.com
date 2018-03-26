@@ -95,13 +95,6 @@ ul {
 	left: -0.25em;
 }*/
 
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
-
 li ul {
 	position: relative;
 	left: 0;
