@@ -21,11 +21,11 @@ __CTO & Co-Founder__, Reindex Software
 - Held multiple GraphQL trainings and workshops `GraphQL` `training`
 - Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `nodejs`
 - Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. `GraphQL` `JavaScript` `open-source` `React`
-- Lead the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
+- Led the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
 - Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform `nodejs` `GraphQL`
-- Led frontend developer of a mobile book store project. Started effort to move the webstore to React `JavaScript` `React`
+- Led frontend development of a mobile book store project. Started effort to move the webstore to React `JavaScript` `React`
 - Implemented a video inspection platform for police personal cameras `JavaScript` `React` `Python` `Django`
-- Pariticpated in development of browser testing application `JavaScript` `nodejs`
+- Participated in development of browser testing application `JavaScript` `nodejs`
 
 *Sep 2008 - Apr 2014*
 
