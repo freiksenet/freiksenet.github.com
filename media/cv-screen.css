@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -32,7 +32,6 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -53,12 +52,13 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+  max-width: 1024px;
 }
 
 p {
@@ -71,19 +71,16 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
-}
-
-p code {
-	position: absolute;
-	left: -14%;
+	color: #1c887e;
+  padding: 0 2px;
+  background-color: #f3f3f3;
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -126,7 +123,7 @@ h1 {
 	left: 33%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -144,7 +141,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;

@@ -1,91 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mikhail Novikov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mikhail Novikov
+Hard-working generalist, who operates autonomously and has high risk tolerance.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+*Email*: freiksenet@reindex.io
 
+## Briefly
 
-## Currently
+I'm expert in web technologies. I've been doing programming professionally for 9 years. I'm especially good in doing web in JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I'm great at getting things done and I can provide positive impact to any project really fast.
 
-Standing on the shoulders of giants
+## Work experience
 
-### Specialized in
+*Apr 2014 - ongoing*
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__CTO & Co-Founder__, Reindex Software
 
+- Co-founder a consulting company, that pivoted into product company and then back to consulting company
+- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `nodejs`
+- Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. `GraphQL` `JavaScript` `open-source` `React`
+- Lead the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
+- Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform `nodejs` `GraphQL`
+- Led frontend developer of a mobile book store project. Started effort to move the webstore to React `JavaScript` `React`
+- Implemented a video inspection platform for police personal cameras `JavaScript` `React` `Python` `Django`
+- Pariticpated in development of browser testing application `JavaScript` `nodejs`
 
-### Research interests
+*Sep 2008 - Apr 2014*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Developer__, Zenrobotics Ltd
 
+`Clojure`, `robotics`, `waste management`, `KUKA`, `industrial robots`
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Participated in development of an advanced robotic control system.
+- Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
 
 
+*Sep 2008 - Apr 2014*
 
-## Awards
+__Web Development Consultant__, Freiksenet Advanced Technologies
 
-`2012`
-President, *Royal Society*, London, UK
+`Python`, `Django`, `JavaScript`, `node.js`, `web`
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Consulted several companies, mostly in Web Development
+- As a consultant to a startup, I helped them to develop their product based on node.js, coffeescript and Python. I was involved both in frontend and backend.
+- As a consultant to a company that specializes on tourism, I was involved in all range of duties - from backend and database design to markup and deployment. I developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
 
 
-## Occupation
+*Sep 2011 - Nov 2012*
 
-`1600`
-__Royal Mint__, London
+__Senior Software Engineer__, HDmessaging
 
-- Warden
-- Minted coins
+`Python`, `software architecture`, `NLP`, `cloud`, `Chef`
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Was leading developer working on the MagicWords contextual analysis backend framework
+- Was involved in hiring process and participated in higher level architectural discussions
+- Was heavily involved in improvement of software configuration management process
 
 
+*Mar 2011 - Sep 2011*
+
+__Research Assistant__, University Of Helsinki
+
+`Common Lisp`, `NLP`, `AI`, `IE`
+
+- Worked on PULS project - fact extraction from real-world news articles for multiple domains
+- Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reogranization of the project codebase, in server migrations and in several other smaller projects
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March 2018 -->
