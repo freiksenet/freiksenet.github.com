@@ -36,7 +36,7 @@ __CTO & Co-Founder__, Reindex Software
 - Participated in development of browser testing application <br/>
 `JavaScript` `Node.js`
 
-*Sep 2008 - Apr 2014*
+*Nov 2012 - Apr 2014*
 
 __Developer__, Zenrobotics Ltd
 
@@ -46,7 +46,7 @@ __Developer__, Zenrobotics Ltd
 - Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
 
 
-*Nov 2012 - Apr 2014*
+*Sep 2008 - Apr 2014*
 
 __Web Development Consultant__, Freiksenet Advanced Technologies
 
