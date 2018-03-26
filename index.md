@@ -2,7 +2,7 @@
 layout: cv
 title: Mikhail Novikov's CV
 ---
-# Mikhail Novikov
+# Mikhail Novikov aka freiksenet
 Hard-working generalist, who operates autonomously and has high risk tolerance.
 
 *Email*: freiksenet@reindex.io
