@@ -72,7 +72,7 @@ __Research Assistant__, University Of Helsinki
 
 *2007 - 2010*
 
-__Bachelor of Business Administration__, Haaga-Helia Un
+__Bachelor of Business Administration__, Haaga-Helia University of Applied Sciences
 
 
 <!-- ### Footer
