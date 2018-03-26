@@ -22,20 +22,25 @@ I'm an expert in web technologies. I've been doing programming professionally fo
 __CTO & Co-Founder__, Reindex Software
 
 - Co-founded a consulting company, that pivoted into product company and then back to consulting company
-- Held multiple GraphQL trainings and workshops `GraphQL` `training`
-- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `Node.js`
-- Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. `GraphQL` `JavaScript` `open-source` `React`
-- Led the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
-- Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform `nodejs` `GraphQL`
-- Led frontend development of a mobile book store project. Started effort to move the webstore to React `JavaScript` `React`
-- Implemented a video inspection platform for police personal cameras `JavaScript` `React` `Python` `Django`
-- Participated in development of browser testing application `JavaScript` `nodejs`
+- Held multiple GraphQL trainings and workshops <br/> `GraphQL` `training`
+- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. <br/>
+`GraphQL` `JavaScript` `open-source` `Node.js`
+- Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. <br/>
+`GraphQL` `JavaScript` `open-source` `React`
+- Led the refactoring and development of the fronted of WebRTC based video calling application <br/> `React` `Redux` `architecture`
+- Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform <br/>
+`Node.js` `GraphQL`
+- Led frontend development of a mobile book store project. Started effort to move the webstore to React <br/> `JavaScript` `React`
+- Implemented a video inspection platform for police personal cameras <br/>
+`JavaScript` `React` `Python` `Django`
+- Participated in development of browser testing application <br/>
+`JavaScript` `Node.js`
 
 *Sep 2008 - Apr 2014*
 
 __Developer__, Zenrobotics Ltd
 
-`Clojure`, `robotics`, `waste management`, `KUKA`, `industrial robots`
+`Clojure` `robotics` `waste management` `KUKA` `industrial robots`
 
 - Participated in development of an advanced robotic control system.
 - Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
@@ -45,7 +50,7 @@ __Developer__, Zenrobotics Ltd
 
 __Web Development Consultant__, Freiksenet Advanced Technologies
 
-`Python`, `Django`, `JavaScript`, `Node.js`, `web`
+`Python` `Django` `JavaScript` `Node.js` `web`
 
 - Consulted several companies, mostly in Web Development
 - As a consultant to a startup, I helped them to develop their product based on Node.js, coffeescript and Python. I was involved both in frontend and backend.
@@ -56,7 +61,7 @@ __Web Development Consultant__, Freiksenet Advanced Technologies
 
 __Senior Software Engineer__, HDmessaging
 
-`Python`, `software architecture`, `NLP`, `cloud`, `Chef`
+`Python` `software architecture` `NLP` `cloud` `Chef`
 
 - Was leading developer working on the MagicWords contextual analysis backend framework
 - Was involved in hiring process and participated in higher level architectural discussions
@@ -67,7 +72,7 @@ __Senior Software Engineer__, HDmessaging
 
 __Research Assistant__, University Of Helsinki
 
-`Common Lisp`, `NLP`, `AI`, `IE`
+`Common Lisp` `NLP` `AI` `IE`
 
 - Worked on PULS project - fact extraction from real-world news articles for multiple domains
 - Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reorganization of the project codebase, in server migrations and in several other smaller projects
