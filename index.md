@@ -46,7 +46,7 @@ __Developer__, Zenrobotics Ltd
 - Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
 
 
-*Sep 2008 - Apr 2014*
+*Nov 2012 - Apr 2014*
 
 __Web Development Consultant__, Freiksenet Advanced Technologies
 
