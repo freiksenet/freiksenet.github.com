@@ -9,7 +9,7 @@ Hard-working generalist, who operates autonomously and has high risk tolerance.
 
 ## Briefly
 
-I'm expert in web technologies. I've been doing programming professionally for almost 10 years. I'm especially good in doing web in JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I'm great at getting things done and I can provide positive impact to any project really fast.
+I'm expert in web technologies. I've been doing programming professionally for almost 10 years. I'm especially good in doing web in JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I'm great at getting things done and I can provide immediate positive impact to any project.
 
 ## Work experience
 
@@ -66,7 +66,7 @@ __Research Assistant__, University Of Helsinki
 `Common Lisp`, `NLP`, `AI`, `IE`
 
 - Worked on PULS project - fact extraction from real-world news articles for multiple domains
-- Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reogranization of the project codebase, in server migrations and in several other smaller projects
+- Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reorganization of the project codebase, in server migrations and in several other smaller projects
 
 ## Education
 
