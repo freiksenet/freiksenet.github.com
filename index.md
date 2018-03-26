@@ -17,7 +17,7 @@ I'm expert in web technologies. I've been doing programming professionally for a
 
 __CTO & Co-Founder__, Reindex Software
 
-- Co-founder a consulting company, that pivoted into product company and then back to consulting company
+- Co-founded a consulting company, that pivoted into product company and then back to consulting company
 - Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. `GraphQL` `JavaScript` `open-source` `nodejs`
 - Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. `GraphQL` `JavaScript` `open-source` `React`
 - Lead the refactoring and development of the fronted of WebRTC based video calling application `React` `Redux` `architecture`
