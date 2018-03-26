@@ -68,6 +68,13 @@ __Research Assistant__, University Of Helsinki
 - Worked on PULS project - fact extraction from real-world news articles for multiple domains
 - Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reogranization of the project codebase, in server migrations and in several other smaller projects
 
+## Education
+
+*2007 - 2010*
+
+__Bachelor of Business Administration__, Haaga-Helia Un
+
+
 <!-- ### Footer
 
 Last updated: March 2018 -->
