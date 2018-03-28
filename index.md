@@ -45,18 +45,6 @@ __Developer__, Zenrobotics Ltd
 - Participated in development of an advanced robotic control system.
 - Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
 
-
-*Sep 2008 - Apr 2014*
-
-__Web Development Consultant__, Freiksenet Advanced Technologies
-
-`Python` `Django` `JavaScript` `Node.js` `web`
-
-- Consulted several companies, mostly in Web Development
-- As a consultant to a startup, I helped them to develop their product based on Node.js, coffeescript and Python. I was involved both in frontend and backend.
-- As a consultant to a company that specializes on tourism, I was involved in all range of duties - from backend and database design to markup and deployment. I developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
-
-
 *Sep 2011 - Nov 2012*
 
 __Senior Software Engineer__, HDmessaging
@@ -76,6 +64,19 @@ __Research Assistant__, University Of Helsinki
 
 - Worked on PULS project - fact extraction from real-world news articles for multiple domains
 - Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reorganization of the project codebase, in server migrations and in several other smaller projects
+
+
+*Sep 2008 - Apr 2014*
+
+__Web Development Consultant__, Freiksenet Advanced Technologies
+
+`Python` `Django` `JavaScript` `Node.js` `web`
+
+- Consulted several companies, mostly in Web Development
+- As a consultant to a startup, I helped them to develop their product based on Node.js, coffeescript and Python. I was involved both in frontend and backend.
+- As a consultant to a company that specializes on tourism, I was involved in all range of duties - from backend and database design to markup and deployment. I developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
+
+
 
 ## Education
 
