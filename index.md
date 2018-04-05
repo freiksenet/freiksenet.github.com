@@ -15,6 +15,19 @@ Hard-working generalist, who operates autonomously and has high risk tolerance.
 
 I'm an expert in web technologies. I've been doing programming professionally for almost 10 years. I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I get things done and provide immediate positive impact to any project.
 
+## GraphQL Consulting and Training
+
+I'm available for GraphQL, React and React Native remote consulting. My rate is €125/h ($150/h). I'm available both for full-time and part-time projects of any length; however ideal project for me is 3 to 6 month long and either full-time or 80%.
+
+Examples of projects, where I'd be a great fit, are:
+
+* Designing and implementing the transition of your app to GraphQL
+* Designing or reviewing the architecture of your new GraphQL app
+* Delivering a critical feature in a time-constrained environment
+* Support your organization's use of graphql open source libraries, like `graphql-js` or `graphql-tools`, by fixing bugs or implementing new features
+
+I also offer on-site training within Europe, both for server-side and client-side GraphQL. Training costs €7500 per day of training.
+
 ## Work experience
 
 *Apr 2014 ->*
@@ -26,7 +39,7 @@ __CTO & Co-Founder__, Reindex Software
 - Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. <br/>
 `GraphQL` `JavaScript` `open-source` `Node.js`
 - Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. <br/>
-`GraphQL` `JavaScript` `open-source` `React`
+`GraphQL` `JavaScript` `open-source` `React` `Auth0 Extend`
 - Led the refactoring and development of the fronted of WebRTC based video calling application <br/> `React` `Redux` `architecture`
 - Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform <br/>
 `Node.js` `GraphQL`
