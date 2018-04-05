@@ -13,7 +13,7 @@ Hard-working generalist, who operates autonomously and has high risk tolerance.
 
 ## Briefly
 
-I'm an expert in web technologies. I've been doing programming professionally for almost 10 years. I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I get things done and provide immediate positive impact to any project.
+I'm an expert in web technologies. I've been doing programming professionally for 10 years. I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In addition to that, I'm fluent in Python, Clojure and Common Lisp. I'm great at operating independently, including remotely and across different timezones. I get things done and provide immediate positive impact to any project.
 
 ## GraphQL Consulting and Training
 
