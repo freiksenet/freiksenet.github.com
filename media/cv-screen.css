@@ -179,9 +179,35 @@ strong {
 	display: none;
 }
 
+@media only screen and (max-width: 600px) {
+  html, body {
+    width: 100%;
+    margin: 0;
+  }
 
+  #content {
+    padding: 10px;
+  }
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+  h1, p, ul {
+    left: 0;
+    width: 100%;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2em;
+  }
+
+  h1+p {
+    text-align: center;
+  }
+
+  h2 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+  }
+}
