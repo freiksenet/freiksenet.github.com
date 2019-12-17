@@ -32,7 +32,7 @@ I also offer on-site training within Europe, both for server-side and client-sid
 
 *Jan 2019 -> ongoing*
 
-__Staff Software Engineer, Core Team__, Gatsby
+__Staff Software Engineer, Core Team__, Gatsby Inc.
 
 - Worked at the open source team, that is responsible for Gatsby framework <br/> `GraphQL` `JavaScript` `React` `Node.js` `open-source`
 - Implemented schema customization and rewrote whole Gatsby's GraphQL subsystem
