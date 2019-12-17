@@ -17,7 +17,7 @@ I'm an expert in web technologies. I've been doing programming professionally fo
 
 ## GraphQL Consulting and Training
 
-I'm available for GraphQL, React and React Native remote consulting. My rate is €125/h ($150/h). I'm available both for full-time and part-time projects of any length; however ideal project for me is 3 to 6 month long and either full-time or 80%.
+I'm available for GraphQL, React and React Native remote consulting. My rate is €200/h ($225/h). I'm available both for full-time and part-time projects of any length; however ideal project for me is 3 to 6 month long and either full-time or 80%.
 
 Examples of projects, where I'd be a great fit, are:
 
@@ -30,9 +30,19 @@ I also offer on-site training within Europe, both for server-side and client-sid
 
 ## Work experience
 
-*Apr 2014 ->*
+*Jan 2019 -> ongoing*
 
-__CTO & Co-Founder__, Reindex Software
+__Staff Software Engineer, Core Team__, Gatsby
+
+- Worked at the open source team, that is responsible for Gatsby framework <br/> `GraphQL` `JavaScript` `React` `Node.js` `open-source`
+- Implemented schema customization and rewrote whole Gatsby's GraphQL subsystem
+- Implemented a more abstract data storage subsystem to support Gatsby internal node search with different database backends
+- Implemented incremental building for Gatsby sites
+- Led an impromptu GraphQL mini-team within the Core
+
+*Apr 2014 -> Dec 2019*
+
+__CTO & Co-Founder__, Functo Inc. (aka. Reindex Software)
 
 - Co-founded a consulting company, that pivoted into product company and then back to consulting company
 - Held multiple GraphQL trainings and workshops <br/> `GraphQL` `training`
