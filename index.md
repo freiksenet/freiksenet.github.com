@@ -18,6 +18,8 @@ _GitHub_: [https://github.com/freiksenet](https://github.com/freiksenet)
 
 _Twitter_: [https://twitter.com/freiksenet](https://twitter.com/freiksenet)
 
+_Location_: Helsinki, Finland
+
 </div>
 </div>
 
