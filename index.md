@@ -36,7 +36,9 @@ _Jan 2019 -> ongoing_
 
 **Staff Software Engineer, Tech Lead, Core Team**, Gatsby Inc.
 
-- Worked at the open source team, that is responsible for Gatsby framework <br/> `JavaScript` `React` `GraphQL` `Node.js` `open-source`
+`JavaScript` `React` `GraphQL` `Node.js` `open-source`
+
+- Worked at the open source team, that is responsible for Gatsby framework <br/>
 - As an IC Designed and/or implemented the following big changes to Gatsby Core:
   - Schema Customization v1 and v2 (API to manually define Gatsby's GraphQL Schema)
   - Materialization (layer that augments data store objects based on GraphQL resolvers)
@@ -70,6 +72,8 @@ _Apr 2014 -> Dec 2019_
   `JavaScript` `React` `Python` `Django`
 - Participated in development of browser testing application <br/>
   `JavaScript` `Node.js`
+- Led team that converted a legacy Django website to Gatsby website <br/>
+  `Django` `React` `Gatsby`
 
 _Nov 2012 - Apr 2014_
 
