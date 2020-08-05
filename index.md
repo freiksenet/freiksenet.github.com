@@ -44,7 +44,7 @@ _Jan 2019 -> ongoing_
   - Materialization (layer that augments data store objects based on GraphQL resolvers)
   - Incremental Builds Runner v1 (Gatsby Builder that powers Incremental Builds in Gatsby Cloud)
   - Components from GraphQL (an API to output React components from GraphQL layer)
-- Was Core Tech Lead from Feb 2020
+- Was Core Team Tech Lead from Feb 2020
 - As a Tech Lead, I led the following process changes within the team:
   - Created code ownership document that helped separate Core Team into sub teams (boats)
   - Created Core Technical Roadmap and worked with Core Leadership and Product Team to create team roadmaps and goals for Q2/Q3/Q4 of 2020
