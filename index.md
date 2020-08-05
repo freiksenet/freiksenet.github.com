@@ -26,7 +26,7 @@ _Twitter_: [https://twitter.com/freiksenet](https://twitter.com/freiksenet)
 
 ## Briefly
 
-With 12 years of professional software developlem experience I have been working both as an IC indivually and with a team as well as in a technical leadership position for team of 15 engineers. As an IC, I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In a position of leadership, I enjoy collaborating with customers, participating in product development and working with other teams within the company. I excel at identifying improvements to team's or company's processes.
+With 12 years of professional software development experience I have been working both as an IC (individually and with a team), as well as in a technical leadership position for team of 15 engineers. As an IC, I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In a position of leadership, I enjoy collaborating with customers, participating in product development and working with other teams within the company. I excel at identifying improvements to team's or company's processes.
 
 <!-- ## GraphQL Consulting and Training
 
