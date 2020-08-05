@@ -77,7 +77,7 @@ React Finland and GraphQL Finland are community conferences in Helsinki, Finland
 - Helped organize React Finland 2018, GraphQL Finland 2018 and React Finland 2019
 - Volunteer coordinator for React Finland 2018
 - Head Producer for GraphQL Finland 2018
-- Sponsor coordinator and producer for React Finland 2019
+- Sponsor coordinator and producer for React Finland 2019 and 2020/2021
 
 **CTO & Co-Founder**, Functo Inc. (aka. Reindex Software)
 
