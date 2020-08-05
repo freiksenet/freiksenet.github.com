@@ -72,7 +72,7 @@ _Jan 2019 -> ongoing_
 
 _Apr 2018 -> ongoing_
 
-React Finland and GraphQL Finland are community conferences in Helsinki, Finland.
+[React Finland](https://react-finland.fi/) and [GraphQL Finland](https://graphql-finland.fi/) are community-organized conferences in Helsinki, Finland.
 
 - Helped organize React Finland 2018, GraphQL Finland 2018 and React Finland 2019
 - Volunteer coordinator for React Finland 2018
