@@ -3,6 +3,11 @@ layout: cv
 title: Mikhail Novikov's CV
 ---
 
+{::options parse_block_html="true" /}
+
+<div class="header content">
+<div class="inner">
+
 # Mikhail Novikov aka freiksenet
 
 <!-- Hard-working generalist, who operates autonomously and has high risk tolerance. -->
@@ -13,9 +18,15 @@ _GitHub_: [https://github.com/freiksenet](https://github.com/freiksenet)
 
 _Twitter_: [https://twitter.com/freiksenet](https://twitter.com/freiksenet)
 
+</div>
+</div>
+
+<div class="briefly content">
+<div class="inner">
+
 ## Briefly
 
-I've been doing software development professionally for 12 years. I have track record of working both as an IC (both alone and within a team) and in a technical leadership position. As an IC, I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In a position of leadership, I enjoy collaborating with customers, participating in product development and working with other teams within the company. I excel at discovering issues with team's or company's processes and finding solutions to them.
+With 12 years of professional software developlem experience I have been working both as an IC indivually and with a team as well as in a technical leadership position for team of 15 engineers. As an IC, I'm especially good at web development with JavaScript, my tools of choice being React and GraphQL. In a position of leadership, I enjoy collaborating with customers, participating in product development and working with other teams within the company. I excel identifying improvements to team's or company's processes.
 
 <!-- ## GraphQL Consulting and Training
 
@@ -30,13 +41,17 @@ Examples of projects, where I'd be a great fit, are:
 
 I also offer on-site training within Europe, both for server-side and client-side GraphQL. Training costs €7500 per day of training. -->
 
-## Work experience
+</div>
+</div>
 
-_Jan 2019 -> ongoing_
+<div class="experience content">
+<div class="inner">
+
+## Work experience
 
 **Staff Software Engineer, Tech Lead, Core Team**, Gatsby Inc.
 
-`JavaScript` `React` `GraphQL` `Node.js` `open-source`
+_Jan 2019 -> ongoing_
 
 - Worked at the open source team, that is responsible for Gatsby framework <br/>
 - As an IC Designed and/or implemented the following big changes to Gatsby Core:
@@ -44,81 +59,80 @@ _Jan 2019 -> ongoing_
   - Materialization (layer that augments data store objects based on GraphQL resolvers)
   - Incremental Builds Runner v1 (Gatsby Builder that powers Incremental Builds in Gatsby Cloud)
   - Components from GraphQL (an API to output React components from GraphQL layer)
-- Was Core Team Tech Lead from Feb 2020
+- Core Team Tech Lead since Feb 2020
 - As a Tech Lead, I led the following process changes within the team:
-  - Created code ownership document that helped separate Core Team into sub teams (boats)
+  - Lead clarifying code ownership and helped EM to organize core team into subteams (boats)
   - Created Core Technical Roadmap and worked with Core Leadership and Product Team to create team roadmaps and goals for Q2/Q3/Q4 of 2020
   - Started process of sending weekly newsletter with team's achievements to increase company-wide transparency
   - Organized Tech Lead sync meetings to synchronize on technical challenges with other team's technical leadership
-  - Was point of contact for other teams in the company
-  - Worked with Core Team ICs and other teams to get new features into Gatsby Core, such as Unified Routes, Gatsby Recipes and Gatsby Admin
+  - Was instrumental in facilitating cross-functional collaboration with other teams
+  - Collaborated and guided with Core Team ICs and other teams to get new features into Gatsby Core, such as Unified Routes, Gatsby Recipes and Gatsby Admin
 
-_Apr 2014 -> Dec 2019_
+**Conference organizer**, TOSKA Osuuskunta / React Finland ry
+
+_Apr 2018 -> ongoing_
+
+React Finland and GraphQL Finland are community conferences in Helsinki, Finland.
+
+- Helped organize React Finland 2018, GraphQL Finland 2018 and React Finland 2019
+- Volunteer coordinator for React Finland 2018
+- Head Producer for GraphQL Finland 2018
+- Sponsor coordinator and producer for React Finland 2019
 
 **CTO & Co-Founder**, Functo Inc. (aka. Reindex Software)
 
-- Co-founded a consulting company, that pivoted into product company and then back to consulting company
-- Held multiple GraphQL trainings and workshops <br/> `GraphQL` `training`
-- Worked on [Dagster](https://github.com/dagster-io/dagster) machine learning platform, architected and implemented first version of its Dagit UI
-- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in graphql-tools library. <br/>
-  `GraphQL` `JavaScript` `open-source` `Node.js`
-- Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform. <br/>
-  `GraphQL` `JavaScript` `open-source` `React` `Auth0 Extend`
-- Led the refactoring and development of the fronted of WebRTC based video calling application <br/> `React` `Redux` `architecture`
-- Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform <br/>
-  `Node.js` `GraphQL`
-- Led frontend development of a mobile book store project. Started effort to move the webstore to React <br/> `JavaScript` `React`
-- Implemented a video inspection platform for police personal cameras <br/>
-  `JavaScript` `React` `Python` `Django`
-- Participated in development of browser testing application <br/>
-  `JavaScript` `Node.js`
-- Led team that converted a legacy Django website to Gatsby website <br/>
-  `Django` `React` `Gatsby`
+_Apr 2014 -> Dec 2019_
 
-_Nov 2012 - Apr 2014_
+- Co-founded a consulting company, that pivoted into product company and then back to consulting company
+- Held multiple GraphQL trainings and workshops
+- Worked on [Dagster](https://github.com/dagster-io/dagster) a Python machine learning platform, architected and implemented first version of its Dagit UI in React and Typescript.
+- Implemented [Schema Stitching](https://dev-blog.apollodata.com/graphql-schema-stitching-8af23354ac37) in GraphQL Tools library.
+- Created [Apollo Launchpad](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba), the GraphQL server demo platform.
+- Led the refactoring and development of the React frontend of WebRTC based video calling application
+- Implemented Reindex Backend-as-a-Service, first GraphQL BaaS platform in Node.js. Worked on everything that a new startup needs, including documentation, examples/starters, checkout flow and public website
+- Led frontend development of a mobile book store project implemented in Javascript and jQuery. Started effort to move the webstore to React
+- Implemented a video inspection platform for police personal cameras. Backend was done using Python, Django and Django REST Framework, frontend with React and Javascript
+- Participated in development of browser testing application in Coffescript and Node.js
+- Led team that converted a legacy Django website to Gatsby website
 
 **Developer**, Zenrobotics Ltd
 
-`Clojure` `robotics` `waste management` `KUKA` `industrial robots`
+_Nov 2012 - Apr 2014_
 
-- Participated in development of an advanced robotic control system.
+- Participated in development of an advanced robotic control system implemented in Clojure and Java
+- Developed an API server for robot's Web UI in Python
 - Was heavily involved in customer deliveries; was team's primary contact during several delivery projects
-
-_Sep 2011 - Nov 2012_
 
 **Senior Software Engineer**, HDmessaging
 
-`Python` `software architecture` `NLP` `cloud` `Chef`
+_Sep 2011 - Nov 2012_
 
-- Was leading developer working on the MagicWords contextual analysis backend framework
+- Was leading developer working on the MagicWords contextual analysis backend framework, implemented in Python
 - Was involved in hiring process and participated in higher level architectural discussions
-- Was heavily involved in improvement of software configuration management process
-
-_Mar 2011 - Sep 2011_
+- Was heavily involved in improvement of software configuration management process in Python and Ruby
+- Worked on a web application implemented in Javascript and Backbone
 
 **Research Assistant**, University Of Helsinki
 
-`Common Lisp` `NLP` `AI` `IE`
+_Mar 2011 - Sep 2011_
 
 - Worked on PULS project - fact extraction from real-world news articles for multiple domains
 - Was involved in adapting current English language Information Extraction system to work with Russian language (see publication), in general refactoring and reorganization of the project codebase, in server migrations and in several other smaller projects
-
-_Sep 2008 - Apr 2014_
+- Project was done in Common Lisp
 
 **Web Development Consultant**, Freiksenet Advanced Technologies
 
-`Python` `Django` `JavaScript` `Node.js` `web`
+_Sep 2008 - Apr 2014_
 
 - Consulted several companies, mostly in Web Development
-- As a consultant to a startup, I helped them to develop their product based on Node.js, coffeescript and Python. I was involved both in frontend and backend.
-- As a consultant to a company that specializes on tourism, I was involved in all range of duties - from backend and database design to markup and deployment. I developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
+- As a consultant to a startup, helped to develop their product based on Node.js, coffeescript and Python. Was involved both in frontend and backend.
+- As a consultant to a company that specializes on tourism, was involved in all range of duties - from backend and database design to markup and deployment. Developed, deployed and supported the intranet customer management application, company website and a web shop. Work was mostly in Python, Django on backend and JavaScript on frontend.
 
 ## Education
 
-_2007 - 2010_
-
 **Bachelor of Business Administration**, Haaga-Helia University of Applied Sciences
 
-<!-- ### Footer
+_2007 - 2010_
 
-Last updated: March 2018 -->
+</div>
+</div>

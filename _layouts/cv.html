@@ -1,18 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} {% endif %}</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-    {{ content }}
+  <head>
+    <meta charset="utf-8" />
+    <title>{% if page.title %} {{ page.title }} {% endif %}</title>
+    <link
+      href="media/cv-screen.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen"
+    />
+    <link
+      href="media/cv-print.css"
+      type="text/css"
+      rel="stylesheet"
+      media="print"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div id="main">
+      {{ content }}
     </div>
-  </div>
-</body>
+  </body>
 </html>
