@@ -66,7 +66,7 @@ _Jan 2019 -> ongoing_
   - Started process of sending weekly newsletter with team's achievements to increase company-wide transparency
   - Organized Tech Lead sync meetings to synchronize on technical challenges with other team's technical leadership
   - Was instrumental in facilitating cross-functional collaboration with other teams
-  - Collaborated and guided with Core Team ICs and other teams to get new features into Gatsby Core, such as Unified Routes, Gatsby Recipes and Gatsby Admin
+  - Collaborated and guided Core Team and other team's ICs to get new features into Gatsby Core, such as Unified Routes, Gatsby Recipes and Gatsby Admin
 
 **Conference organizer**, TOSKA Osuuskunta / React Finland ry
 
