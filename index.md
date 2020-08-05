@@ -51,7 +51,7 @@ I also offer on-site training within Europe, both for server-side and client-sid
 
 **Staff Software Engineer, Tech Lead, Core Team**, Gatsby Inc.
 
-_Jan 2019 -> ongoing_
+_Jan 2019 -> (ongoing)_
 
 - Worked at the open source team, that is responsible for Gatsby framework <br/>
 - As an IC Designed and/or implemented the following big changes to Gatsby Core:
@@ -70,7 +70,7 @@ _Jan 2019 -> ongoing_
 
 **Conference organizer**, TOSKA Osuuskunta / React Finland ry
 
-_Apr 2018 -> ongoing_
+_Apr 2018 -> (ongoing)_
 
 [React Finland](https://react-finland.fi/) and [GraphQL Finland](https://graphql-finland.fi/) are community-organized conferences in Helsinki, Finland.
 
@@ -81,7 +81,7 @@ _Apr 2018 -> ongoing_
 
 **CTO & Co-Founder**, Functo Inc. (aka. Reindex Software)
 
-_Apr 2014 -> Dec 2019_
+_Apr 2014 - Dec 2019_
 
 - Co-founded a consulting company, that pivoted into product company and then back to consulting company
 - Held multiple GraphQL trainings and workshops
